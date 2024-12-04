@@ -16,7 +16,7 @@ O propósito deste aplicativo é permitir que jogadores de jogos Pokémon tenham
 ## 💻 Tecnologias Utilizadas
 - **Flutter**: Framework para desenvolvimento multiplataforma (iOS e Android).
 - **Dart**: Linguagem de programação utilizada no Flutter.
-- **MySQL**: Banco de dados para armazenamento de informações sobre os Pokémon, itens e usuários (configurado externamente).
+- **Firebase**: Banco de dados para armazenamento de informações sobre os Pokémon, itens e usuários (configurado externamente).
 
 ## 📱 Estrutura do Aplicativo
 1. **Home**: Tela principal de navegação para as funcionalidades.
