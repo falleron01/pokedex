@@ -23,3 +23,5 @@ O propósito deste aplicativo é permitir que jogadores de jogos Pokémon tenham
 2. **Pokédex**: Exibe os Pokémon capturados com a opção de adicionar novos.
 3. **Itens**: Exibe os itens adquiridos e permite adicionar novos.
 4. **Configurações**: Preparada para futuras implementações de login.
+
+Link do Projeto no Flutlab: https://flutlab.io/editor/df005ef9-650c-43d3-b7d2-d98ac46a296b
